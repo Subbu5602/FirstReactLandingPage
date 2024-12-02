@@ -18,12 +18,17 @@ It showcases a sleek and fully responsive interface, suitable for various device
 - Scalable and modular codebase for future enhancements.
 - Easy-to-navigate design with attention to user experience.
 
-![image](https://github.com/user-attachments/assets/fe9a1d20-e455-4773-9c9e-f60c2a7edc54)
+![image](https://github.com/user-attachments/assets/f21c015d-30ad-4f4a-aec1-aadabbbd0d55)
 
-![image](https://github.com/user-attachments/assets/715ca259-3859-4b59-a0f5-f9945494809d)
 
-![image](https://github.com/user-attachments/assets/a44cabaa-b864-4b77-a95d-6d61fbbfc39a)
+![image](https://github.com/user-attachments/assets/003cf113-0dc7-44b2-a7e2-f415ba759c07)
 
-![image](https://github.com/user-attachments/assets/1bc9bb82-48b6-4a4f-8a50-1deb06f30830)
 
-![image](https://github.com/user-attachments/assets/62f1c561-0798-4ef8-b53b-283383d7a8db)
+![image](https://github.com/user-attachments/assets/7fd5c073-7817-4979-bbcb-08933c1fed35)
+
+
+![image](https://github.com/user-attachments/assets/7e2b9726-2945-4cc2-9d05-f5c29c9db272)
+
+
+![image](https://github.com/user-attachments/assets/54e34d74-427a-4c8a-8ed8-61093041cc2f)
+
